@@ -1,5 +1,6 @@
 * {
     font-family: Helvetica;
+    text-align: center;
 }
 
 #banner {
@@ -11,11 +12,11 @@
     width: 100%;
 }
 
-h2 {
+
+h1 {
     font-size: 32px;
     font-weight: bold;
     color: white;
-    text-align: left;
     width: 100%;
 }
 
